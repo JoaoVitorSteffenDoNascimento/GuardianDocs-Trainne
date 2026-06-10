@@ -1,238 +1,211 @@
-🚀 GuardianDocs Academy
+<div align="center">
 
-«Programa Oficial de Formação de Desenvolvedores Full Stack da GuardianDocs»
+# 🚀 GuardianDocs Academy
 
-"Status" (https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
-"Duração" (https://img.shields.io/badge/Duração-6%20Meses-green)
-"Nível" (https://img.shields.io/badge/Nível-Trainee%20%2F%20Júnior-orange)
+### Programa Oficial de Formação de Desenvolvedores Full Stack da GuardianDocs
+
+![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)
+![Duração](https://img.shields.io/badge/Duração-6%20Meses-blue?style=for-the-badge)
+![Nível](https://img.shields.io/badge/Nível-Trainee-orange?style=for-the-badge)
 
 ---
 
-📖 Sobre o Programa
+### Simple. Fast. Secure.
+
+Formando a próxima geração de desenvolvedores GuardianDocs.
+
+</div>
+
+---
+
+# 📖 Sobre o Programa
 
 Parabéns!
 
-Você foi selecionado para participar da GuardianDocs Academy, o programa interno de formação de desenvolvedores da GuardianDocs.
+Você foi selecionado para participar da **GuardianDocs Academy**, o programa interno de formação de desenvolvedores da GuardianDocs.
 
-Durante os próximos 6 meses, você passará por uma trilha estruturada de aprendizado baseada nas tecnologias utilizadas pela GuardianDocs e amplamente adotadas pelo mercado de software.
+Durante os próximos **6 meses**, você passará por uma jornada estruturada de aprendizado focada nas tecnologias utilizadas pela empresa e amplamente adotadas pelo mercado.
 
-O objetivo não é apenas ensinar ferramentas, mas desenvolver profissionais capazes de:
-
-- Resolver problemas reais.
-- Trabalhar em equipe.
-- Construir aplicações modernas.
-- Participar de projetos corporativos.
-- Contribuir efetivamente para produtos SaaS.
-
-Ao longo da jornada você estudará backend, frontend, banco de dados, cloud computing, infraestrutura, integração de pagamentos e boas práticas de desenvolvimento.
+O objetivo do programa é desenvolver profissionais capazes de atuar em projetos reais, trabalhando com backend, frontend, banco de dados, cloud computing, infraestrutura e integrações modernas.
 
 ---
 
-🎯 Objetivos
+# 🎯 Objetivos
 
-Ao final do programa você deverá ser capaz de:
+Ao final da formação você deverá ser capaz de:
 
-- Desenvolver APIs utilizando Node.js e TypeScript.
-- Construir aplicações React e Next.js.
-- Trabalhar com PostgreSQL e Prisma ORM.
-- Utilizar Git e GitHub profissionalmente.
-- Integrar sistemas de pagamento com Stripe.
-- Documentar APIs utilizando Swagger/OpenAPI.
-- Utilizar Docker e Linux.
-- Realizar deploy em ambientes AWS.
-- Contribuir em aplicações SaaS reais.
-
----
-
-⏳ Duração
-
-Fase| Tempo
-Formação Técnica| 24 semanas
-Projeto Final| 4 semanas
-Total| 28 semanas (~6 meses)
+- Desenvolver APIs com Node.js e TypeScript
+- Trabalhar com PostgreSQL e Prisma ORM
+- Construir aplicações React e Next.js
+- Utilizar Docker em ambientes reais
+- Trabalhar com Linux e servidores
+- Realizar deploy na AWS
+- Integrar pagamentos utilizando Stripe
+- Documentar APIs utilizando Swagger
+- Trabalhar com Git e GitHub profissionalmente
 
 ---
 
-🛠 Tecnologias da Formação
+# ⏳ Duração
 
-Linguagens
+| Etapa | Duração |
+|---------|---------|
+| Formação Técnica | 24 semanas |
+| Projeto Final | 4 semanas |
+| Total | 28 semanas (~6 meses) |
+
+---
+
+# 🛠 Tecnologias
+
+## Linguagens
 
 - JavaScript
 - TypeScript
 
-Backend
+## Backend
 
 - Node.js
 - REST APIs
 
-Banco de Dados
+## Banco de Dados
 
 - PostgreSQL
 - SQL
 - Prisma ORM
 
-Frontend
+## Frontend
 
 - React
 - Next.js
 
-Infraestrutura
-
-- Linux
-- Docker
-
-Cloud
+## Cloud
 
 - AWS
 - EC2
 - S3
 
-Integrações
+## Infraestrutura
 
-- Stripe
+- Linux
+- Docker
 
-Ferramentas
+## Ferramentas
 
 - Git
 - GitHub
 - Postman
 - Swagger
 
+## Integrações
+
+- Stripe
+
 ---
 
-📚 Módulo 1 — JavaScript + Git/GitHub
+# 📚 Trilha de Formação
+
+## 📖 Módulo 1 — JavaScript + Git/GitHub
 
 ⏳ Duração: 3 semanas
 
-Cursos
+### Cursos
 
-Git/GitHub
+#### Git/GitHub
 
 https://youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU
 
-JavaScript
+#### JavaScript
 
 https://youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw
 
-Aprendizados
-
-JavaScript
+### Conteúdo
 
 - Variáveis
 - Tipos
+- Funções
 - Arrays
 - Objetos
-- Funções
 - Promises
 - Async/Await
-- Consumo de APIs
-
-Git/GitHub
-
-- Commits
+- Git
+- GitHub
 - Branches
-- Merge
 - Pull Requests
-- Git Flow
 
 ---
 
-📚 Módulo 2 — TypeScript + Node.js + Postman
+## ⚙️ Módulo 2 — TypeScript + Node.js + Postman
 
 ⏳ Duração: 4 semanas
 
-Cursos
+### Cursos
 
-TypeScript + Node.js
+#### TypeScript + Node.js
 
 https://youtube.com/playlist?list=PL9tY_tDo_Q0DOAzTaPnWYsryfNLsz1K6U
 
-Postman
+#### Postman
 
 https://youtube.com/playlist?list=PL5ne1nP397vPLi0Qe2uMa69Vq01oGMttJ
 
-Aprendizados
+### Conteúdo
 
-TypeScript
-
-- Types
+- TypeScript
 - Interfaces
 - Generics
-- Classes
-
-Node.js
-
 - APIs REST
 - Controllers
 - Services
 - Middlewares
-- Tratamento de erros
-
-Postman
-
-- Collections
-- Environments
+- Postman
 - Testes de APIs
 
 ---
 
-📚 Módulo 3 — PostgreSQL + Prisma + SQL
+## 🗄️ Módulo 3 — PostgreSQL + Prisma + SQL
 
 ⏳ Duração: 4 semanas
 
-Curso Principal
+### Curso Principal
 
 https://youtube.com/playlist?list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY
 
-Complementar
+### Complementar
 
 https://www.youtube.com/live/EEuNrnyA4Wk
 
-Aprendizados
+### Conteúdo
 
-PostgreSQL
-
-- SELECT
-- INSERT
-- UPDATE
-- DELETE
-- JOIN
-- GROUP BY
-- Índices
-
-Prisma
-
-- Models
+- SQL
+- PostgreSQL
 - Relacionamentos
+- JOIN
+- Prisma
 - Migrations
-- Prisma Client
+- Models
+- CRUD
 
 ---
 
-📚 Módulo 4 — Fundamentos Cloud + AWS
+## ☁️ Módulo 4 — Fundamentos Cloud + AWS
 
 ⏳ Duração: 3 semanas
 
-Curso Principal
+### Curso Principal
 
 https://youtube.com/playlist?list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz
 
-Complementar
+### Complementar
 
 https://youtu.be/nOZTyuhCU2k
 
-Aprendizados
+### Conteúdo
 
-Cloud
-
+- Cloud Computing
 - IaaS
 - PaaS
 - SaaS
-- Escalabilidade
-- Alta Disponibilidade
-
-AWS
-
 - IAM
 - EC2
 - S3
@@ -241,132 +214,109 @@ AWS
 
 ---
 
-📚 Módulo 5 — React + Next.js
+## ⚛️ Módulo 5 — React + Next.js
 
 ⏳ Duração: 5 semanas
 
-React
+### React
 
 https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 
-Next.js
+### Next.js
 
 https://youtube.com/playlist?list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft
 
-Aprendizados
+### Conteúdo
 
-React
-
-- JSX
 - Componentes
 - Hooks
-- Forms
 - Context API
-
-Next.js
-
+- Forms
 - Routing
-- Layouts
 - SSR
-- SSG
-- Middleware
 - SEO
+- Middleware
 
 ---
 
-📚 Módulo 6 — Linux + Docker
+## 🐳 Módulo 6 — Linux + Docker
 
 ⏳ Duração: 3 semanas
 
-Linux
+### Linux
 
 https://youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH
 
-Docker
+### Docker
 
 https://youtube.com/playlist?list=PLViOsriojeLrdw5VByn96gphHFxqH3O_N
 
-Aprendizados
+### Conteúdo
 
-Linux
-
-- Terminal
+- Linux
 - SSH
 - Permissões
-- Usuários
 - Logs
-- Serviços
-
-Docker
-
+- Docker
+- Docker Compose
 - Containers
-- Dockerfile
 - Volumes
 - Networks
-- Docker Compose
 
 ---
 
-📚 Módulo 7 — Stripe + Swagger
+## 💳 Módulo 7 — Stripe + Swagger
 
 ⏳ Duração: 2 semanas
 
-Stripe
+### Stripe
 
 https://youtu.be/GZelbWA597Y
 
-Swagger
+### Swagger
 
 https://youtu.be/3nl9AzttzBQ
 
-Aprendizados
+### Conteúdo
 
-Stripe
-
-- Produtos
 - Assinaturas
 - Checkout
 - Webhooks
-
-Swagger
-
 - OpenAPI
-- Schemas
+- Swagger
 - Documentação de APIs
 
 ---
 
-🏆 Projeto Final
+# 🏆 Projeto Final
 
 ⏳ Duração: 4 semanas
 
 Desenvolver uma aplicação inspirada em cenários reais da GuardianDocs.
 
-Requisitos Obrigatórios
-
-Backend
+### Backend
 
 - Node.js
 - TypeScript
 - PostgreSQL
 - Prisma
 
-Frontend
+### Frontend
 
 - React
 - Next.js
 
-Infraestrutura
+### Infraestrutura
 
 - Docker
 - AWS
 
-Integrações
+### Integrações
 
 - Stripe
 - Swagger
 
-Funcionalidades
+### Funcionalidades
 
 - Empresas
 - Usuários
@@ -378,11 +328,11 @@ Funcionalidades
 
 ---
 
-📺 Materiais Complementares
+# 📺 Materiais Complementares
 
-Fabio Akita
+## Fabio Akita
 
-Serve para:
+**Foco:**
 
 - Engenharia de Software
 - Arquitetura
@@ -393,74 +343,43 @@ Serve para:
 
 ---
 
-Filipe Deschamps
+## Filipe Deschamps
 
-Serve para:
+**Foco:**
 
 - JavaScript
 - Node.js
 - APIs
 - Desenvolvimento Web
-- Tecnologia em geral
 
 ---
 
-Augusto Galego
+## Augusto Galego
 
-Serve para:
+**Foco:**
 
-- Lógica de Programação
 - Algoritmos
+- Lógica
 - Estruturas de Dados
 - LeetCode
-- Entrevistas Técnicas
 
 ---
 
-Renato Augusto
+## Renato Augusto
 
-Serve para:
+**Foco:**
 
 - System Design
 - Escalabilidade
 - Microsserviços
-- Arquitetura de Software
+- Arquitetura
 
 ---
 
-O Novo Programador
+## O Novo Programador
 
-Serve para:
+**Foco:**
 
 - Currículo
 - LinkedIn
-- Portfólio
-- Entrevistas
-- Networking
-- Mercado de Tecnologia
-
----
-
-💡 Filosofia da GuardianDocs Academy
-
-Aprender tecnologias é importante.
-
-Entender como elas funcionam é essencial.
-
-Saber aplicá-las para resolver problemas reais é o que transforma estudantes em profissionais.
-
-A GuardianDocs Academy foi criada para acelerar essa transformação através da combinação de:
-
-- Estudo
-- Prática
-- Projetos
-- Desafios
-- Aplicação em cenários reais
-
----
-
-🚀 GuardianDocs Academy
-
-Simple. Fast. Secure.
-
-Construindo os desenvolvedores que construirão o futuro.
+- Port
